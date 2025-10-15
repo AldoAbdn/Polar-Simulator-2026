@@ -1,30 +1,34 @@
 {
   "_resourceType": "actor",
-  "id": "0434c6f6-14c9-4bea-80fd-4a7818fc364d",
-  "_index": 0,
-  "symbol": "actor_sign_post_4",
-  "prefabId": "",
+  "id": "e8c051ae-e850-4701-ba2d-0d324e38dbef",
   "name": "Sign Post",
-  "x": 134,
-  "y": 13,
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
-  "paletteId": "",
+  "spriteSheetId": "a0442b6a-634f-44da-9962-77938e3ed839",
+  "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
   "animSpeed": 15,
+  "paletteId": "",
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
+  "_index": 0,
+  "symbol": "actor_0",
+  "x": 16,
+  "y": 13,
   "script": [
     {
-      "id": "3b39bf7d-5a47-4b97-bfd6-ef1759ec738b",
+      "id": "e7419b73-8a87-47d2-939c-8161fac4d833",
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "This way to\nSample Town!"
+          "Log entry 303:\nCode Name Polar Bear",
+          "Polar Bear has killed\nMany scientists",
+          "We are unsure why it is\nso strong or intelligent",
+          "Some believe his genome \nMay hold the key to ",
+          "Humanities survival\nFurther logs will follow:"
         ]
       }
     }
