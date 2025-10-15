@@ -182,5 +182,6 @@
   "playerHit2Script": [],
   "playerHit3Script": [],
   "collisions": "0093+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00a0+0f!00d+0f38+003+0f2f+005+0f32+0037+0f!003+0f!002d+0f!005+0f!0068+0f!003+0f!002d+0f!005+0f!0068+0f!003+0f!002d+0f!005+0f!0031+",
-  "labelColor": ""
+  "labelColor": "",
+  "playerSpriteSheetId": "23fb29cc-269e-4968-af55-164b76177fa8"
 }
